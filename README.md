@@ -31,4 +31,4 @@ public class OrderDetailServiceImpl implements OrderDetailService {
 ```
 
 * `author` - Kamchybek Al
-* `date` - The date of creation `2021-07-20 01:32`
+* `date` - The date of creation `2023-07-20 01:32`
